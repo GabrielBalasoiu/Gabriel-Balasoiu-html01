@@ -1,1 +1,18 @@
+.my-div {
+    width: 500px;
+    height: 102px;
+    background-color: red;
+    border: 1px solid green;
+    /* margin: 0 auto; */
+    margin-right: auto;
+    margin-left: auto;
+}
 
+.container{
+width: 100%;
+border: 3px solid green;
+padding-top: 15px;
+padding-bottom: 15px;
+padding-right: 15px;
+padding-right: 15px;
+}
