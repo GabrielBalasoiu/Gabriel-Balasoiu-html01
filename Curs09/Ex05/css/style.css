@@ -23,3 +23,31 @@
 .box-yellow {
   background-color: yellow;
 }
+
+
+/* REST OF CODE HERE */
+
+.box-red {
+  transition: width 3s linear;
+}
+
+.box-red:hover {
+  width: 120px;
+}
+
+.box-green {
+  transition: transform 5s linear;
+}
+
+.box-green:hover {
+  transform: rotate(360deg) scale(1.5);
+}
+.box-purple {
+  transition: width 4s ease 1s, height 4s ease 1s, background-color 6s linear;
+}
+
+.box-purple:hover {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
