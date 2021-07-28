@@ -1,0 +1,12 @@
+body {
+    color: green;
+}
+
+a {
+    color: inherit;
+}
+
+ul {
+    list-style-type: none;
+}
+
